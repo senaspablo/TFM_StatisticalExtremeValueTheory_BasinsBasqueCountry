@@ -1,5 +1,3 @@
-# TFM_StatisticalExtremeValueTheory_BasinsBasqueCountry
-
 ## Author: Pablo Señas Peón
 ## Masters of Mathematics and Computing.
 ## University of Cantabria.
