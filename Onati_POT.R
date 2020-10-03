@@ -4,7 +4,7 @@
 ##Universidad de Cantabria
 
 #Description: Peak over Threshold approach is applied to the floods of the river Oñati.
-rm(list=ls())
+#rm(list=ls())
 source("Functions.r")
 library(lubridate)
 library(readr)
